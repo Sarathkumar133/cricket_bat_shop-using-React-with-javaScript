@@ -11,8 +11,8 @@
 // const pool = new Pool({
 //   user: 'postgres',
 //   host: 'localhost',
-//   database: 'cricket_bat',
-//   password: 'sarath@3',
+//   database: 'db name',
+//   password: 'db password',
 //   port:5432,
 // });
 
